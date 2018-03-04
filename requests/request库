@@ -1,0 +1,4 @@
+Request库是用python语言编写的，基于urllib，采用Apache2 Licensed开源协议deHTTP
+库。它比urllib更加方便，可以节约我们大量的工作，完全满足HTTP测试需求。
+
+一句话--python实现的简单易用的HTTP库
